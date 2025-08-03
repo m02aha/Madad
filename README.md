@@ -17,6 +17,8 @@
 - 🎨 **Tailwind CSS** – Styling framework
 - 🔗 **Fetch API** – For data fetching from backend
 
+<img width="933" height="413" alt="image" src="https://github.com/user-attachments/assets/5953e718-aa39-4a9f-ae60-4802213c80c1" />
+<img width="930" height="280" alt="{30C10286-EC57-461D-B1BB-3419EFDC62BC}" src="https://github.com/user-attachments/assets/312dad71-599b-4d42-aa25-98b31f5c7246" />
 
 ---
 
@@ -28,6 +30,7 @@
 
    ```bash
    git clone https://github.com/yourusername/madad-app.git'
+   cd madad
    npm install
    cd madad-apnpm run dev
 The app should now be running at http://localhost:5173 (or Vite’s default port).p
