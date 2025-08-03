@@ -1,12 +1,37 @@
-# React + Vite
+# 🛠️ Madad – Skill-Based Services Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Madad** is a modern web platform built with React that connects clients with skilled local service providers such as plumbers, electricians, painters, tutors, and more. It simplifies the process of discovering, booking, and reviewing services based on user needs and location.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## current features
 
-## Expanding the ESLint configuration
+- 🔎 **Browse services** by category and search query (e.g., plumbing, painting, etc.)
+  
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧱 Built With
+
+- ⚛️ **React** – Frontend library
+- 🧩 **React Router** – For routing between pages
+- 🎨 **Tailwind CSS** – Styling framework
+- 🔗 **Fetch API** – For data fetching from backend
+
+<img width="933" height="413" alt="image" src="https://github.com/user-attachments/assets/5953e718-aa39-4a9f-ae60-4802213c80c1" />
+<img width="930" height="280" alt="{30C10286-EC57-461D-B1BB-3419EFDC62BC}" src="https://github.com/user-attachments/assets/312dad71-599b-4d42-aa25-98b31f5c7246" />
+
+---
+
+## 🛠️ Project Setup
+
+### 📦 Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/madad-app.git'
+   cd madad
+   npm install
+   cd madad-apnpm run dev
+The app should now be running at http://localhost:5173 (or Vite’s default port).p
+
